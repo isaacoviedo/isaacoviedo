@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 🔭 I’m currently working at GitHub
-![Testing](https://giphy.com/gifs/coding-zOvBKUUEERdNm)
+![Testing](https://www.google.com/url?sa=i&url=https%3A%2F%2Fvsoch.github.io%2F2018%2Flearning-go%2F&psig=AOvVaw1GyVmN3gJkROv_UOHoI2p2&ust=1647022101272000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCMixgtCRvPYCFQAAAAAdAAAAABAJ.gif)
 
 <!--
 **isaacoviedo/isaacoviedo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
